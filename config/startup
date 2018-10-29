@@ -1,0 +1,1 @@
+./jk2mvded +set fs_game ctfmod +set net_port 28070 +exec server.cfg
